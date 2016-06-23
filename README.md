@@ -1,6 +1,10 @@
-[Warning! Popcorntime.sh /io now owned by MPAA](https://www.reddit.com/r/PopcornTimeCE/comments/46acve/warning_popcorntimech_owned_by_mpaa_to_track/)
+[Warning! Popcorntime.sh threatens your computer privacy.](http://popcorntime.ag/official-statement.html#Malware2)
 
 # [Popcorn Time Community](https://github.com/PopcornTime-CE/desktop)
+
+[![Join the chat at https://gitter.im/vzamanillo/desktop](https://badges.gitter.im/vzamanillo/desktop.svg)](https://gitter.im/vzamanillo/desktop?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
+[![Join the chat at https://gitter.im/PopcornTime-CE/desktop](https://badges.gitter.im/PopcornTime-CE/desktop.svg)](https://gitter.im/PopcornTime-CE/desktop?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 Allow anyone to easily watch their favorite movies, shows, and anime.
 
@@ -15,6 +19,10 @@ This project would absolutely **not** be possible without the original developer
 ## Getting Involved
 
 Want to report a bug, request a feature, contribute or translate Popcorn Time? We need all the help we can get! You can also join in with our [community](README.md#community) to keep up-to-date and meet other Popcorn Timers.
+
+## Contributing
+
+Please don't post pull requests that reformats the code. Please don't remove whitespaces. Don't do any dirty job.
 
 ## Getting Started
 
@@ -58,6 +66,7 @@ Keep track of Popcorn Time Community development and community activity.
 
 * Join in discussions on the [Popcorn Time Subreddit](http://reddit.com/r/PopcornTimeCE)
 * Visit the [website](http://popcorntime.ag)
+* Chat with us on [![Join the chat at https://gitter.im/PopcornTime-CE/desktop](https://badges.gitter.im/PopcornTime-CE/desktop.svg)](https://gitter.im/PopcornTime-CE/desktop)
 
 ## Versioning
 
